@@ -1,4 +1,4 @@
-### study-of-basic-gates
+![312525416-523d3d1f-416e-46fc-b087-8e2e92053a69](https://github.com/Harsetha/study-of-basic-gates/assets/149985878/760ce0bd-d9df-4e55-80ae-f549c591203a)### study-of-basic-gates
 
 **AIM:** 
 
@@ -66,11 +66,18 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
-**Logic symbol & Truthtable**
+ Developed by:harsetha J RegisterNumber: 212223220032
+ ![312524418-91cd9c06-dc03-4c8c-9aca-5f9e3eab0189](https://github.com/Harsetha/study-of-basic-gates/assets/149985878/46c44f3a-0237-4208-86c6-2efa661c3125)
 
-**RTL realization Output:** 
+**Logic symbol & Truthtable**
+![312524944-f9705d15-097d-41f0-938e-727ac8c817fe](https://github.com/Harsetha/study-of-basic-gates/assets/149985878/0c0ad0d2-85eb-4c1f-a5b5-bc46a776a0d7)
+
+**RTL realization:**
+![312525416-523d3d1f-416e-46fc-b087-8e2e92053a69](https://github.com/Harsetha/study-of-basic-gates/assets/149985878/916aa157-70ef-4a3d-9e7f-249ca7d48955)
+
+
+**Output:** 
+![312525723-f207de9e-70e8-480c-805b-7bba6eba26d7](https://github.com/Harsetha/study-of-basic-gates/assets/149985878/e51099cb-ea9b-4550-9978-77881f61eef2)
 
 **RTL**
 
