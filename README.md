@@ -1,5 +1,3 @@
-![312525416-523d3d1f-416e-46fc-b087-8e2e92053a69](https://github.com/Harsetha/study-of-basic-gates/assets/149985878/760ce0bd-d9df-4e55-80ae-f549c591203a)### study-of-basic-gates
-
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -79,7 +77,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **Output:** 
 ![312525723-f207de9e-70e8-480c-805b-7bba6eba26d7](https://github.com/Harsetha/study-of-basic-gates/assets/149985878/e51099cb-ea9b-4550-9978-77881f61eef2)
 
-**RTL**
 
 **Result:**
 
